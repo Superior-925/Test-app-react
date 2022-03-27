@@ -106,9 +106,6 @@ function Home() {
                                 onChange={handleChange}
                             />
                             {touched.amount && errors.amount && <p className={classes.error}>{errors.amount}</p>}
-                            {/*<div>*/}
-                            {/*    {emailAlreadyExist && <p className={classes.errorEmailAlreadyExist}>This email already exist!!</p>}*/}
-                            {/*</div>*/}
                             <Button
                                 sx={{
                                     fontSize: "1.3rem",
