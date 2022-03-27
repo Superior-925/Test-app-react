@@ -28,9 +28,10 @@ function Home() {
         amount: yup.string().matches(/^[0-9]+$/, "Must be only digits").required('Amount is required')
     });
 
-    function submitData(values) {
+    function submitData(values, resetForm) {
         CardApi.cardPay(values).then((response) => {
             if (response.status === 200) {
+                resetForm();
                 alert(`Post id: ${response.data.requestId}, amount: ${response.data.amount}`)
             }
         },error => {
@@ -52,7 +53,7 @@ function Home() {
                         amount: ''
                     }}
                     validateOnChange
-                    onSubmit={(values) => { submitData(values)}}
+                    onSubmit={(values, { resetForm }) => { submitData(values, resetForm)}}
                     validationSchema={validationsSchemaSignUp}
                 >
 

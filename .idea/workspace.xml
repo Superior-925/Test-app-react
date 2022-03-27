@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44d29681-e6d0-4ee6-bd94-8a41c12150d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="44d29681-e6d0-4ee6-bd94-8a41c12150d8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react-social-network-front" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,6 +71,7 @@
       <workItem from="1648236948903" duration="14350000" />
       <workItem from="1648398915246" duration="1138000" />
       <workItem from="1648400234233" duration="1263000" />
+      <workItem from="1648408311446" duration="248000" />
     </task>
     <servers />
   </component>
@@ -81,10 +79,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="262" width="424" height="479" key="FileChooserDialogImpl" timestamp="1648247502131">
+    <state x="623" y="262" width="424" height="479" key="FileChooserDialogImpl" timestamp="1648408626928">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="623" y="262" width="424" height="479" key="FileChooserDialogImpl/1680.0.1920.1080/0.0.1680.1010@0.0.1680.1010" timestamp="1648247502131" />
+    <state x="623" y="262" width="424" height="479" key="FileChooserDialogImpl/1680.0.1920.1080/0.0.1680.1010@0.0.1680.1010" timestamp="1648408626928" />
     <state width="1659" height="105" key="GridCell.Tab.0.bottom" timestamp="1648400053326">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
