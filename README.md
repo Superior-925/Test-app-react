@@ -7,3 +7,7 @@
 - Run the project
 
 ### `npm run start`
+
+- Go to address
+
+http://localhost:3000
